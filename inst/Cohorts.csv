@@ -1,0 +1,123 @@
+webApiCohortId,cohortId,cohortName
+1779650,1779650,[ACESO_P1] COVID_Target Cohort_Pilot
+1779657,1779657,[ACESO_P1] No COVID control_pilot
+1780185,1780185,[ACESO_P1] Malignant neoplastic disease_Outcome events_V2
+1780186,1780186,[ACESO_P1] Lung cancer_Outcome events_V2
+1780187,1780187,[ACESO_P1] Liver Cancer_Outcome events_V2
+1780188,1780188,[ACESO_P1] Endometrial cancer_Outcome events_V2
+1780189,1780189,[ACESO_P1] Colorectal cancer_Outcome events_V2
+1780190,1780190,[ACESO_P1] Malignant diseases_Outcome events_V2
+1780192,1780192,[ACESO_P1] Skin eruption_Outcome events_V2
+1780191,1780191,[ACESO_P1] Alopecia and hair loss_Outcome events_V2
+1780193,1780193,[ACESO_P1] Atopic dermatitis_Outcome events_V2
+1780372,1780372,[ACESO_P1] Sleep disorder_Outcome events_V2
+1780194,1780194,[ACESO_P1] Chilblains_Outcome events_V2
+1780195,1780195,[ACESO_P1] Urticaria_Outcome events_V2
+1780196,1780196,[ACESO_P1] Purpura_Outcome events_V2
+1780197,1780197,[ACESO_P1] Dermatological diseases_Outcome events_V2
+1780198,1780198,[ACESO_P1] Gastrointestinal bleeding_Outcome events_V2
+1780199,1780199,[ACESO_P1] Irritable bowel syndrome_Outcome events_V2
+1780200,1780200,[ACESO_P1] Inflammatory Bowel Disease_Outcome events_V2
+1780201,1780201,[ACESO_P1] Gastrointestinal disorder_Outcome events_V2
+1780184,1780184,[ACESO_P1] Psychiatric disorder_Outcome events_V2
+1780202,1780202,[ACESO_P1] GP clinic visit_Outcome events_V2
+1780212,1780212,[ACESO_P1] Severe COVID procedure_Outcome events_V2
+1780203,1780203,[ACESO_P1] Accident and Emergency department admission_Outcome events_V2
+1780204,1780204,[ACESO_P1] Hospital stay at general ward _Outcome events_V2
+1780205,1780205,[ACESO_P1] Intensive services during hospitalization _Outcome events_V2
+1780206,1780206,[ACESO_P1] Healthcare resources_Outcome events_V2
+1780207,1780207,[ACESO_P1] Extracorporeal membrane oxygenation_Outcome events_V2
+1780208,1780208,[ACESO_P1] Mechanical Ventilation_Outcome events_V2
+1780209,1780209,[ACESO_P1] Invasive ventilation_Outcome events_V2
+1780210,1780210,[ACESO_P1] Noninvasive ventilation_Outcome events_V2
+1780211,1780211,[ACESO_P1] Renal dialysis_Outcome events_V2
+1779690,1779690,[ACESO_P1] Myocarditis Pericarditis_FDA_Outcome events_V2
+1779687,1779687,[ACESO_P1] Pulmonary embolism_FDA_Outcome events_V2
+1779697,1779697,[ACESO_P1] Myocardial infarction_FDA_Outcome events_V2
+1779702,1779702,[ACESO_P1] Deep Vein Thrombosis_FDA_Outcome events_V2
+1779699,1779699,[ACESO_P1] Immune and idiopathic thrombocytopenia_FDA_Outcome events_V2
+1780069,1780069,[ACESO_P1] Hypotension_Outcome events_V2
+1780045,1780045,[ACESO_P1] Hypertensive disorder_Outcome events_V2
+1780072,1780072,[ACESO_P1] Cardiac arrhythmia_Outcome events_V2
+1780073,1780073,[ACESO_P1] Angina pectoris_Outcome events_V2
+1780074,1780074,[ACESO_P1] Cardiac arrest_Outcome events_V2
+1780075,1780075,[ACESO_P1] Heart Failure_Outcome events_V2
+1780076,1780076,[ACESO_P1] Endocarditis_Outcome events_V2
+1780077,1780077,[ACESO_P1] Cardiomyopathy_Outcome events_V2
+1780078,1780078,[ACESO_P1] Thromboembolism_Outcome events_V2
+1780079,1780079,[ACESO_P1] COPD_Outcome events_V2
+1780080,1780080,[ACESO_P1] Asthma_Outcome events_V2
+1780081,1780081,[ACESO_P1] Acute Respiratory Distress Syndrome_Outcome events_V2
+1780082,1780082,[ACESO_P1] Atherosclerosis_Outcome events_V2
+1780083,1780083,[ACESO_P1] Dyspnea_Outcome events_V2
+1780084,1780084,[ACESO_P1] Pneumonia_Outcome events_V2
+1780085,1780085,[ACESO_P1] Tuberculosis_Outcome events_V2
+1780086,1780086,[ACESO_P1] Bronchiectasis_Outcome events_V2
+1780087,1780087,[ACESO_P1] Lung Fibrosis_Outcome events_V2
+1780088,1780088,[ACESO_P1] Empyema_Outcome events_V2
+1780089,1780089,[ACESO_P1] Pleural effusion_Outcome events_V2
+1780090,1780090,[ACESO_P1] Air leak from the lung_Outcome events_V2
+1780091,1780091,[ACESO_P1] Pneumothorax_Outcome events_V2
+1780093,1780093,[ACESO_P1] Acute Kidney Injury_Outcome events_V2
+1780092,1780092,[ACESO_P1] Pulmonary hypertension_Outcome events_V2
+1780094,1780094,[ACESO_P1] Chronic Kidney Disease_Outcome events_V2
+1780095,1780095,[ACESO_P1] Chronic Hepatic Disease_Outcome events_V2
+1780096,1780096,[ACESO_P1] Pancreatitis_Outcome events_V2
+1780097,1780097,[ACESO_P1] Hepatitis B_Outcome events_V2
+1780098,1780098,[ACESO_P1] Hepatitis C_Outcome events_V2
+1780112,1780112,[ACESO_P1] End-stage Renal Disease_Outcome events_V2
+1780113,1780113,[ACESO_P1] T2DM_Outcome events_V2
+1780114,1780114,[ACESO_P1] Hyperthyroidism_Outcome events_V2
+1780115,1780115,[ACESO_P1] Hypothyroidism_Outcome events_V2
+1780116,1780116,[ACESO_P1] Thyroiditis_Outcome events_V2
+1780117,1780117,[ACESO_P1] Sexual disorder_Outcome events_V2
+1780119,1780119,[ACESO_P1] Endocrine Disease_Outcome events_V2
+1780120,1780120,[ACESO_P1] Renal and Hepatic Disease_Outcome events_V2
+1780165,1780165,[ACESO_P1] Ischaemic stroke events_Outcome events_V2
+1780164,1780164,[ACESO_P1] Parkinson's Disease_Outcome events_V2
+1780166,1780166,[ACESO_P1] Hemorrhagic stroke events_Outcome events_V2
+1780167,1780167,[ACESO_P1] Transient cerebral ischemia_Outcome events_V2
+1780168,1780168,[ACESO_P1] Impaired cognition_Outcome events_V2
+1780146,1780146,[ACESO_P1] Respiratory disorder_Outcome events_V2
+1780147,1780147,[ACESO_P1] Haematological disorder_Outcome events_V2
+1780148,1780148,[ACESO_P1] Cardiovascular Disorder_Outcome events_V2
+1780153,1780153,[ACESO_P1] Multi-system inflammatory syndrome _Outcome events_V2
+1780154,1780154,[ACESO_P1] Sepsis _Outcome events_V2
+1780157,1780157,[ACESO_P1] Myasthenia Gravis _Outcome events_V2
+1780156,1780156,[ACESO_P1] Guillain-Barr?? syndrome_Outcome events_V2
+1780155,1780155,[ACESO_P1] Multiple Sclerosis_Outcome events_V2
+1780158,1780158,[ACESO_P1] Immunological _Outcome events_V2
+1780159,1780159,[ACESO_P1] Olfactory and gustatory disorder_Outcome events_V2
+1780160,1780160,[ACESO_P1] Encephalitis and encephalomyelitis_Outcome events_V2
+1780161,1780161,[ACESO_P1] Epilepsy and Seizure disorder_Outcome events_V2
+1780162,1780162,[ACESO_P1] Alzheimer disease_Outcome events_V2
+1780163,1780163,[ACESO_P1] Migraine_Outcome events_V2
+1780169,1780169,[ACESO_P1] Bells Palsy_Outcome events_V2
+1780171,1780171,[ACESO_P1] Neurological disorder_Outcome events_V2
+1780172,1780172,[ACESO_P1] Psychoses_Outcome events_V2
+1780173,1780173,[ACESO_P1] Dementia_Outcome events_V2
+1780174,1780174,[ACESO_P1] Depression_Outcome events_V2
+1780175,1780175,[ACESO_P1] Self-harm and suicide_Outcome events_V2
+1780177,1780177,[ACESO_P1] Anxiety disorders_Outcome events_V2
+1780178,1780178,[ACESO_P1] Bipolar disorders_Outcome events_V2
+1780183,1780183,[ACESO_P1] Neruodevelopmental disorder_Outcome events_V2
+1780179,1780179,[ACESO_P1] Personality disorders_Outcome events_V2
+1780176,1780176,[ACESO_P1] Insomnia_Outcome events_V2
+1781505,1781505,[ACESO_P1] Mortality_Outcome events_V2
+1781278,1781278,[ACESO_P1] Constipation_MM events_V2
+1781280,1781280,[ACESO_P1] Lymphoma_MM events_V2
+1781281,1781281,"[ACESO_P1] Cancer, non-metastatic (breast, cervical, colorectal, lung, prostate)_MM events_V2"
+1781282,1781282,[ACESO_P1] Mastatic Cancer_MM events_V2
+1781283,1781283,[ACESO_P1] Chronic pain_MM events_V2
+1781284,1781284,[ACESO_P1] Alcohol misuse and dependence_MM events_V2
+1781285,1781285,[ACESO_P1] Chronic pulmonary Disease_MM events_V2
+1781286,1781286,[ACESO_P1] Rheumatoid arthritis_MM events_V2
+1781288,1781288,[ACESO_P1] Peptic ulcer_MM events_V2
+1781289,1781289,[ACESO_P1] Cirrhosis_MM events_V2
+1781290,1781290,[ACESO_P1] Psoriasis_MM events_V2
+1781291,1781291,[ACESO_P1] Dimentia_MM events_V2
+1781292,1781292,[ACESO_P1] Peripheral vascular disease_MM events_V2
+1781293,1781293,[ACESO_P1] Atrial fibrillation_MM events_V2
+1781294,1781294,[ACESO_P1] Chronic heart failure_MM events_V2
+1780180,1780180,[ACESO_P1] Alcohol misuse or dependence_Outcome events_V2
+1780181,1780181,[ACESO_P1] Substance misuse or dependence_Outcome events_V2

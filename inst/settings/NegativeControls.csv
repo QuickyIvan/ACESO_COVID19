@@ -1,0 +1,596 @@
+targetId,comparatorId,outcomeId,outcomeName,type
+1779650,1779657,432513,Animal bite wound,outcome
+1779650,1779657,4171556,Ankle ulcer,outcome
+1779650,1779657,3654971,Burn of digit of hand,outcome
+1779650,1779657,75121,Burn of lower leg,outcome
+1779650,1779657,200461,Endometriosis of uterus,outcome
+1779650,1779657,196347,Intestinal parasitism,outcome
+1779650,1779657,4147016,Open wound of buttock,outcome
+1779650,1779657,80286,Prosthetic joint loosening,outcome
+1779650,1779657,74194,Sprain of spinal ligament,outcome
+1779650,1779657,4194207,Tailor's bunion,outcome
+1779650,1779657,37117100,Tailor's bunion of left foot,outcome
+1779650,1779657,37108619,Tailor's bunion of right foot,outcome
+1779650,1779657,46286594,Problem related to lifestyle,outcome
+1779650,1779657,45770922,Open anterior occlusal relationship,outcome
+1779650,1779657,45757370,Disproportion of reconstructed breast,outcome
+1779650,1779657,44790844,Problem with artificial heart,outcome
+1779650,1779657,44789003,Open wound of thumb with damage to nail,outcome
+1779650,1779657,42538119,Transplanted heart valve present,outcome
+1779650,1779657,42537744,Transplanted cornea present,outcome
+1779650,1779657,42537740,Bladder stoma present,outcome
+1779650,1779657,37116419,Myopic choroidal neovascularization,outcome
+1779650,1779657,36716521,Sequela of trachoma,outcome
+1779650,1779657,36675035,Prematurity of infant,outcome
+1779650,1779657,4318718,Limitation of movement of temporomandibular joint,outcome
+1779650,1779657,4264617,Foot-drop,outcome
+1779650,1779657,4219138,Somatic dysfunction of rib,outcome
+1779650,1779657,4216219,Bizarre personal appearance,outcome
+1779650,1779657,4213540,Cervical somatic dysfunction,outcome
+1779650,1779657,4193774,Flail elbow,outcome
+1779650,1779657,4170145,Absence of lung,outcome
+1779650,1779657,4168318,Genetic disorder carrier,outcome
+1779650,1779657,4168222,"Intra-abdominal and pelvic swelling, mass and lump",outcome
+1779650,1779657,4166231,Genetic predisposition,outcome
+1779650,1779657,4155077,Complete disruption of pelvic ring,outcome
+1779650,1779657,4153217,Patient condition resolved,outcome
+1779650,1779657,4150397,Baby birth weight 1 to 1.5 kilogram,outcome
+1779650,1779657,4149610,Birth weight 999 g or less,outcome
+1779650,1779657,4129479,Normal uterine cervix,outcome
+1779650,1779657,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
+1779650,1779657,4114976,Balanced rearrangement and structural marker,outcome
+1779650,1779657,4101286,Sequelae of malnutrition and other nutritional deficiencies,outcome
+1779650,1779657,4096540,Foreskin deficient,outcome
+1779650,1779657,4094911,Pregnancy test equivocal,outcome
+1779650,1779657,4094163,Polyarticular joint involvement,outcome
+1779650,1779657,4093636,Sequelae of leprosy,outcome
+1779650,1779657,4092879,Absent kidney,outcome
+1779650,1779657,4088768,Absent nipple,outcome
+1779650,1779657,4087800,Ptosis of eyebrow,outcome
+1779650,1779657,4086512,Excess subcutaneous fat,outcome
+1779650,1779657,4081461,Irregular eye movements,outcome
+1779650,1779657,4067069,Callosity,outcome
+1779650,1779657,4066505,Clicking hip,outcome
+1779650,1779657,4052226,Sequelae of injuries of lower limb,outcome
+1779650,1779657,4051630,Malingering,outcome
+1779650,1779657,4050690,Sequelae of open wound of upper limb,outcome
+1779650,1779657,4045471,Autoimmune reaction mediated by cell-mediated immunity,outcome
+1779650,1779657,4031170,Severe systemic illness tissue wasting,outcome
+1779650,1779657,4022078,Discord with counselor,outcome
+1779650,1779657,4022076,Patient dependence on care provider,outcome
+1779650,1779657,4019971,Discord in school,outcome
+1779650,1779657,4008710,"Stenosis due to any device, implant AND/OR graft",outcome
+1779650,1779657,443274,Psychostimulant dependence,outcome
+1779650,1779657,440193,Wristdrop,outcome
+1779650,1779657,438759,Descemet's membrane fold,outcome
+1779650,1779657,438624,Complication of renal dialysis,outcome
+1779650,1779657,438262,Chyluria,outcome
+1779650,1779657,437448,Exhaustion due to excessive exertion,outcome
+1779650,1779657,437369,Postmature infancy,outcome
+1779650,1779657,437092,Physiological development failure,outcome
+1779650,1779657,436426,Malleus mobility reduced,outcome
+1779650,1779657,436233,Delayed milestone,outcome
+1779650,1779657,435720,Adverse anesthesia outcome,outcome
+1779650,1779657,434063,Jaw to cranial base anomaly,outcome
+1779650,1779657,433681,Late effect of accident due to natural and environmental factors,outcome
+1779650,1779657,433542,Precipitate labor,outcome
+1779650,1779657,374358,Excess skin of eyelid,outcome
+1779650,1779657,313601,Oxygen supply absent,outcome
+1779650,1779657,259995,Foreign body in orifice,outcome
+1779650,1779657,77364,Hypermobility of coccyx,outcome
+1779650,1779657,45757504,Urethral intrinsic sphincter deficiency,outcome
+1779650,1779657,36683375,Non-healing surgical wound,outcome
+1779650,1779657,4201388,Gastrostomy present,outcome
+1779650,1779657,4201387,Tracheostomy present,outcome
+1779650,1779657,4019836,Social exclusion,outcome
+1779650,1779657,436041,Leech infestation,outcome
+17796501,17796571,432513,Animal bite wound,outcome
+17796501,17796571,4171556,Ankle ulcer,outcome
+17796501,17796571,3654971,Burn of digit of hand,outcome
+17796501,17796571,75121,Burn of lower leg,outcome
+17796501,17796571,200461,Endometriosis of uterus,outcome
+17796501,17796571,196347,Intestinal parasitism,outcome
+17796501,17796571,4147016,Open wound of buttock,outcome
+17796501,17796571,80286,Prosthetic joint loosening,outcome
+17796501,17796571,74194,Sprain of spinal ligament,outcome
+17796501,17796571,4194207,Tailor's bunion,outcome
+17796501,17796571,37117100,Tailor's bunion of left foot,outcome
+17796501,17796571,37108619,Tailor's bunion of right foot,outcome
+17796501,17796571,46286594,Problem related to lifestyle,outcome
+17796501,17796571,45770922,Open anterior occlusal relationship,outcome
+17796501,17796571,45757370,Disproportion of reconstructed breast,outcome
+17796501,17796571,44790844,Problem with artificial heart,outcome
+17796501,17796571,44789003,Open wound of thumb with damage to nail,outcome
+17796501,17796571,42538119,Transplanted heart valve present,outcome
+17796501,17796571,42537744,Transplanted cornea present,outcome
+17796501,17796571,42537740,Bladder stoma present,outcome
+17796501,17796571,37116419,Myopic choroidal neovascularization,outcome
+17796501,17796571,36716521,Sequela of trachoma,outcome
+17796501,17796571,36675035,Prematurity of infant,outcome
+17796501,17796571,4318718,Limitation of movement of temporomandibular joint,outcome
+17796501,17796571,4264617,Foot-drop,outcome
+17796501,17796571,4219138,Somatic dysfunction of rib,outcome
+17796501,17796571,4216219,Bizarre personal appearance,outcome
+17796501,17796571,4213540,Cervical somatic dysfunction,outcome
+17796501,17796571,4193774,Flail elbow,outcome
+17796501,17796571,4170145,Absence of lung,outcome
+17796501,17796571,4168318,Genetic disorder carrier,outcome
+17796501,17796571,4168222,"Intra-abdominal and pelvic swelling, mass and lump",outcome
+17796501,17796571,4166231,Genetic predisposition,outcome
+17796501,17796571,4155077,Complete disruption of pelvic ring,outcome
+17796501,17796571,4153217,Patient condition resolved,outcome
+17796501,17796571,4150397,Baby birth weight 1 to 1.5 kilogram,outcome
+17796501,17796571,4149610,Birth weight 999 g or less,outcome
+17796501,17796571,4129479,Normal uterine cervix,outcome
+17796501,17796571,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
+17796501,17796571,4114976,Balanced rearrangement and structural marker,outcome
+17796501,17796571,4101286,Sequelae of malnutrition and other nutritional deficiencies,outcome
+17796501,17796571,4096540,Foreskin deficient,outcome
+17796501,17796571,4094911,Pregnancy test equivocal,outcome
+17796501,17796571,4094163,Polyarticular joint involvement,outcome
+17796501,17796571,4093636,Sequelae of leprosy,outcome
+17796501,17796571,4092879,Absent kidney,outcome
+17796501,17796571,4088768,Absent nipple,outcome
+17796501,17796571,4087800,Ptosis of eyebrow,outcome
+17796501,17796571,4086512,Excess subcutaneous fat,outcome
+17796501,17796571,4081461,Irregular eye movements,outcome
+17796501,17796571,4067069,Callosity,outcome
+17796501,17796571,4066505,Clicking hip,outcome
+17796501,17796571,4052226,Sequelae of injuries of lower limb,outcome
+17796501,17796571,4051630,Malingering,outcome
+17796501,17796571,4050690,Sequelae of open wound of upper limb,outcome
+17796501,17796571,4045471,Autoimmune reaction mediated by cell-mediated immunity,outcome
+17796501,17796571,4031170,Severe systemic illness tissue wasting,outcome
+17796501,17796571,4022078,Discord with counselor,outcome
+17796501,17796571,4022076,Patient dependence on care provider,outcome
+17796501,17796571,4019971,Discord in school,outcome
+17796501,17796571,4008710,"Stenosis due to any device, implant AND/OR graft",outcome
+17796501,17796571,443274,Psychostimulant dependence,outcome
+17796501,17796571,440193,Wristdrop,outcome
+17796501,17796571,438759,Descemet's membrane fold,outcome
+17796501,17796571,438624,Complication of renal dialysis,outcome
+17796501,17796571,438262,Chyluria,outcome
+17796501,17796571,437448,Exhaustion due to excessive exertion,outcome
+17796501,17796571,437369,Postmature infancy,outcome
+17796501,17796571,437092,Physiological development failure,outcome
+17796501,17796571,436426,Malleus mobility reduced,outcome
+17796501,17796571,436233,Delayed milestone,outcome
+17796501,17796571,435720,Adverse anesthesia outcome,outcome
+17796501,17796571,434063,Jaw to cranial base anomaly,outcome
+17796501,17796571,433681,Late effect of accident due to natural and environmental factors,outcome
+17796501,17796571,433542,Precipitate labor,outcome
+17796501,17796571,374358,Excess skin of eyelid,outcome
+17796501,17796571,313601,Oxygen supply absent,outcome
+17796501,17796571,259995,Foreign body in orifice,outcome
+17796501,17796571,77364,Hypermobility of coccyx,outcome
+17796501,17796571,45757504,Urethral intrinsic sphincter deficiency,outcome
+17796501,17796571,36683375,Non-healing surgical wound,outcome
+17796501,17796571,4201388,Gastrostomy present,outcome
+17796501,17796571,4201387,Tracheostomy present,outcome
+17796501,17796571,4019836,Social exclusion,outcome
+17796501,17796571,436041,Leech infestation,outcome
+17796502,17796572,432513,Animal bite wound,outcome
+17796502,17796572,4171556,Ankle ulcer,outcome
+17796502,17796572,3654971,Burn of digit of hand,outcome
+17796502,17796572,75121,Burn of lower leg,outcome
+17796502,17796572,200461,Endometriosis of uterus,outcome
+17796502,17796572,196347,Intestinal parasitism,outcome
+17796502,17796572,4147016,Open wound of buttock,outcome
+17796502,17796572,80286,Prosthetic joint loosening,outcome
+17796502,17796572,74194,Sprain of spinal ligament,outcome
+17796502,17796572,4194207,Tailor's bunion,outcome
+17796502,17796572,37117100,Tailor's bunion of left foot,outcome
+17796502,17796572,37108619,Tailor's bunion of right foot,outcome
+17796502,17796572,46286594,Problem related to lifestyle,outcome
+17796502,17796572,45770922,Open anterior occlusal relationship,outcome
+17796502,17796572,45757370,Disproportion of reconstructed breast,outcome
+17796502,17796572,44790844,Problem with artificial heart,outcome
+17796502,17796572,44789003,Open wound of thumb with damage to nail,outcome
+17796502,17796572,42538119,Transplanted heart valve present,outcome
+17796502,17796572,42537744,Transplanted cornea present,outcome
+17796502,17796572,42537740,Bladder stoma present,outcome
+17796502,17796572,37116419,Myopic choroidal neovascularization,outcome
+17796502,17796572,36716521,Sequela of trachoma,outcome
+17796502,17796572,36675035,Prematurity of infant,outcome
+17796502,17796572,4318718,Limitation of movement of temporomandibular joint,outcome
+17796502,17796572,4264617,Foot-drop,outcome
+17796502,17796572,4219138,Somatic dysfunction of rib,outcome
+17796502,17796572,4216219,Bizarre personal appearance,outcome
+17796502,17796572,4213540,Cervical somatic dysfunction,outcome
+17796502,17796572,4193774,Flail elbow,outcome
+17796502,17796572,4170145,Absence of lung,outcome
+17796502,17796572,4168318,Genetic disorder carrier,outcome
+17796502,17796572,4168222,"Intra-abdominal and pelvic swelling, mass and lump",outcome
+17796502,17796572,4166231,Genetic predisposition,outcome
+17796502,17796572,4155077,Complete disruption of pelvic ring,outcome
+17796502,17796572,4153217,Patient condition resolved,outcome
+17796502,17796572,4150397,Baby birth weight 1 to 1.5 kilogram,outcome
+17796502,17796572,4149610,Birth weight 999 g or less,outcome
+17796502,17796572,4129479,Normal uterine cervix,outcome
+17796502,17796572,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
+17796502,17796572,4114976,Balanced rearrangement and structural marker,outcome
+17796502,17796572,4101286,Sequelae of malnutrition and other nutritional deficiencies,outcome
+17796502,17796572,4096540,Foreskin deficient,outcome
+17796502,17796572,4094911,Pregnancy test equivocal,outcome
+17796502,17796572,4094163,Polyarticular joint involvement,outcome
+17796502,17796572,4093636,Sequelae of leprosy,outcome
+17796502,17796572,4092879,Absent kidney,outcome
+17796502,17796572,4088768,Absent nipple,outcome
+17796502,17796572,4087800,Ptosis of eyebrow,outcome
+17796502,17796572,4086512,Excess subcutaneous fat,outcome
+17796502,17796572,4081461,Irregular eye movements,outcome
+17796502,17796572,4067069,Callosity,outcome
+17796502,17796572,4066505,Clicking hip,outcome
+17796502,17796572,4052226,Sequelae of injuries of lower limb,outcome
+17796502,17796572,4051630,Malingering,outcome
+17796502,17796572,4050690,Sequelae of open wound of upper limb,outcome
+17796502,17796572,4045471,Autoimmune reaction mediated by cell-mediated immunity,outcome
+17796502,17796572,4031170,Severe systemic illness tissue wasting,outcome
+17796502,17796572,4022078,Discord with counselor,outcome
+17796502,17796572,4022076,Patient dependence on care provider,outcome
+17796502,17796572,4019971,Discord in school,outcome
+17796502,17796572,4008710,"Stenosis due to any device, implant AND/OR graft",outcome
+17796502,17796572,443274,Psychostimulant dependence,outcome
+17796502,17796572,440193,Wristdrop,outcome
+17796502,17796572,438759,Descemet's membrane fold,outcome
+17796502,17796572,438624,Complication of renal dialysis,outcome
+17796502,17796572,438262,Chyluria,outcome
+17796502,17796572,437448,Exhaustion due to excessive exertion,outcome
+17796502,17796572,437369,Postmature infancy,outcome
+17796502,17796572,437092,Physiological development failure,outcome
+17796502,17796572,436426,Malleus mobility reduced,outcome
+17796502,17796572,436233,Delayed milestone,outcome
+17796502,17796572,435720,Adverse anesthesia outcome,outcome
+17796502,17796572,434063,Jaw to cranial base anomaly,outcome
+17796502,17796572,433681,Late effect of accident due to natural and environmental factors,outcome
+17796502,17796572,433542,Precipitate labor,outcome
+17796502,17796572,374358,Excess skin of eyelid,outcome
+17796502,17796572,313601,Oxygen supply absent,outcome
+17796502,17796572,259995,Foreign body in orifice,outcome
+17796502,17796572,77364,Hypermobility of coccyx,outcome
+17796502,17796572,45757504,Urethral intrinsic sphincter deficiency,outcome
+17796502,17796572,36683375,Non-healing surgical wound,outcome
+17796502,17796572,4201388,Gastrostomy present,outcome
+17796502,17796572,4201387,Tracheostomy present,outcome
+17796502,17796572,4019836,Social exclusion,outcome
+17796502,17796572,436041,Leech infestation,outcome
+17796503,17796573,432513,Animal bite wound,outcome
+17796503,17796573,4171556,Ankle ulcer,outcome
+17796503,17796573,3654971,Burn of digit of hand,outcome
+17796503,17796573,75121,Burn of lower leg,outcome
+17796503,17796573,200461,Endometriosis of uterus,outcome
+17796503,17796573,196347,Intestinal parasitism,outcome
+17796503,17796573,4147016,Open wound of buttock,outcome
+17796503,17796573,80286,Prosthetic joint loosening,outcome
+17796503,17796573,74194,Sprain of spinal ligament,outcome
+17796503,17796573,4194207,Tailor's bunion,outcome
+17796503,17796573,37117100,Tailor's bunion of left foot,outcome
+17796503,17796573,37108619,Tailor's bunion of right foot,outcome
+17796503,17796573,46286594,Problem related to lifestyle,outcome
+17796503,17796573,45770922,Open anterior occlusal relationship,outcome
+17796503,17796573,45757370,Disproportion of reconstructed breast,outcome
+17796503,17796573,44790844,Problem with artificial heart,outcome
+17796503,17796573,44789003,Open wound of thumb with damage to nail,outcome
+17796503,17796573,42538119,Transplanted heart valve present,outcome
+17796503,17796573,42537744,Transplanted cornea present,outcome
+17796503,17796573,42537740,Bladder stoma present,outcome
+17796503,17796573,37116419,Myopic choroidal neovascularization,outcome
+17796503,17796573,36716521,Sequela of trachoma,outcome
+17796503,17796573,36675035,Prematurity of infant,outcome
+17796503,17796573,4318718,Limitation of movement of temporomandibular joint,outcome
+17796503,17796573,4264617,Foot-drop,outcome
+17796503,17796573,4219138,Somatic dysfunction of rib,outcome
+17796503,17796573,4216219,Bizarre personal appearance,outcome
+17796503,17796573,4213540,Cervical somatic dysfunction,outcome
+17796503,17796573,4193774,Flail elbow,outcome
+17796503,17796573,4170145,Absence of lung,outcome
+17796503,17796573,4168318,Genetic disorder carrier,outcome
+17796503,17796573,4168222,"Intra-abdominal and pelvic swelling, mass and lump",outcome
+17796503,17796573,4166231,Genetic predisposition,outcome
+17796503,17796573,4155077,Complete disruption of pelvic ring,outcome
+17796503,17796573,4153217,Patient condition resolved,outcome
+17796503,17796573,4150397,Baby birth weight 1 to 1.5 kilogram,outcome
+17796503,17796573,4149610,Birth weight 999 g or less,outcome
+17796503,17796573,4129479,Normal uterine cervix,outcome
+17796503,17796573,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
+17796503,17796573,4114976,Balanced rearrangement and structural marker,outcome
+17796503,17796573,4101286,Sequelae of malnutrition and other nutritional deficiencies,outcome
+17796503,17796573,4096540,Foreskin deficient,outcome
+17796503,17796573,4094911,Pregnancy test equivocal,outcome
+17796503,17796573,4094163,Polyarticular joint involvement,outcome
+17796503,17796573,4093636,Sequelae of leprosy,outcome
+17796503,17796573,4092879,Absent kidney,outcome
+17796503,17796573,4088768,Absent nipple,outcome
+17796503,17796573,4087800,Ptosis of eyebrow,outcome
+17796503,17796573,4086512,Excess subcutaneous fat,outcome
+17796503,17796573,4081461,Irregular eye movements,outcome
+17796503,17796573,4067069,Callosity,outcome
+17796503,17796573,4066505,Clicking hip,outcome
+17796503,17796573,4052226,Sequelae of injuries of lower limb,outcome
+17796503,17796573,4051630,Malingering,outcome
+17796503,17796573,4050690,Sequelae of open wound of upper limb,outcome
+17796503,17796573,4045471,Autoimmune reaction mediated by cell-mediated immunity,outcome
+17796503,17796573,4031170,Severe systemic illness tissue wasting,outcome
+17796503,17796573,4022078,Discord with counselor,outcome
+17796503,17796573,4022076,Patient dependence on care provider,outcome
+17796503,17796573,4019971,Discord in school,outcome
+17796503,17796573,4008710,"Stenosis due to any device, implant AND/OR graft",outcome
+17796503,17796573,443274,Psychostimulant dependence,outcome
+17796503,17796573,440193,Wristdrop,outcome
+17796503,17796573,438759,Descemet's membrane fold,outcome
+17796503,17796573,438624,Complication of renal dialysis,outcome
+17796503,17796573,438262,Chyluria,outcome
+17796503,17796573,437448,Exhaustion due to excessive exertion,outcome
+17796503,17796573,437369,Postmature infancy,outcome
+17796503,17796573,437092,Physiological development failure,outcome
+17796503,17796573,436426,Malleus mobility reduced,outcome
+17796503,17796573,436233,Delayed milestone,outcome
+17796503,17796573,435720,Adverse anesthesia outcome,outcome
+17796503,17796573,434063,Jaw to cranial base anomaly,outcome
+17796503,17796573,433681,Late effect of accident due to natural and environmental factors,outcome
+17796503,17796573,433542,Precipitate labor,outcome
+17796503,17796573,374358,Excess skin of eyelid,outcome
+17796503,17796573,313601,Oxygen supply absent,outcome
+17796503,17796573,259995,Foreign body in orifice,outcome
+17796503,17796573,77364,Hypermobility of coccyx,outcome
+17796503,17796573,45757504,Urethral intrinsic sphincter deficiency,outcome
+17796503,17796573,36683375,Non-healing surgical wound,outcome
+17796503,17796573,4201388,Gastrostomy present,outcome
+17796503,17796573,4201387,Tracheostomy present,outcome
+17796503,17796573,4019836,Social exclusion,outcome
+17796503,17796573,436041,Leech infestation,outcome
+17796504,17796574,432513,Animal bite wound,outcome
+17796504,17796574,4171556,Ankle ulcer,outcome
+17796504,17796574,3654971,Burn of digit of hand,outcome
+17796504,17796574,75121,Burn of lower leg,outcome
+17796504,17796574,200461,Endometriosis of uterus,outcome
+17796504,17796574,196347,Intestinal parasitism,outcome
+17796504,17796574,4147016,Open wound of buttock,outcome
+17796504,17796574,80286,Prosthetic joint loosening,outcome
+17796504,17796574,74194,Sprain of spinal ligament,outcome
+17796504,17796574,4194207,Tailor's bunion,outcome
+17796504,17796574,37117100,Tailor's bunion of left foot,outcome
+17796504,17796574,37108619,Tailor's bunion of right foot,outcome
+17796504,17796574,46286594,Problem related to lifestyle,outcome
+17796504,17796574,45770922,Open anterior occlusal relationship,outcome
+17796504,17796574,45757370,Disproportion of reconstructed breast,outcome
+17796504,17796574,44790844,Problem with artificial heart,outcome
+17796504,17796574,44789003,Open wound of thumb with damage to nail,outcome
+17796504,17796574,42538119,Transplanted heart valve present,outcome
+17796504,17796574,42537744,Transplanted cornea present,outcome
+17796504,17796574,42537740,Bladder stoma present,outcome
+17796504,17796574,37116419,Myopic choroidal neovascularization,outcome
+17796504,17796574,36716521,Sequela of trachoma,outcome
+17796504,17796574,36675035,Prematurity of infant,outcome
+17796504,17796574,4318718,Limitation of movement of temporomandibular joint,outcome
+17796504,17796574,4264617,Foot-drop,outcome
+17796504,17796574,4219138,Somatic dysfunction of rib,outcome
+17796504,17796574,4216219,Bizarre personal appearance,outcome
+17796504,17796574,4213540,Cervical somatic dysfunction,outcome
+17796504,17796574,4193774,Flail elbow,outcome
+17796504,17796574,4170145,Absence of lung,outcome
+17796504,17796574,4168318,Genetic disorder carrier,outcome
+17796504,17796574,4168222,"Intra-abdominal and pelvic swelling, mass and lump",outcome
+17796504,17796574,4166231,Genetic predisposition,outcome
+17796504,17796574,4155077,Complete disruption of pelvic ring,outcome
+17796504,17796574,4153217,Patient condition resolved,outcome
+17796504,17796574,4150397,Baby birth weight 1 to 1.5 kilogram,outcome
+17796504,17796574,4149610,Birth weight 999 g or less,outcome
+17796504,17796574,4129479,Normal uterine cervix,outcome
+17796504,17796574,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
+17796504,17796574,4114976,Balanced rearrangement and structural marker,outcome
+17796504,17796574,4101286,Sequelae of malnutrition and other nutritional deficiencies,outcome
+17796504,17796574,4096540,Foreskin deficient,outcome
+17796504,17796574,4094911,Pregnancy test equivocal,outcome
+17796504,17796574,4094163,Polyarticular joint involvement,outcome
+17796504,17796574,4093636,Sequelae of leprosy,outcome
+17796504,17796574,4092879,Absent kidney,outcome
+17796504,17796574,4088768,Absent nipple,outcome
+17796504,17796574,4087800,Ptosis of eyebrow,outcome
+17796504,17796574,4086512,Excess subcutaneous fat,outcome
+17796504,17796574,4081461,Irregular eye movements,outcome
+17796504,17796574,4067069,Callosity,outcome
+17796504,17796574,4066505,Clicking hip,outcome
+17796504,17796574,4052226,Sequelae of injuries of lower limb,outcome
+17796504,17796574,4051630,Malingering,outcome
+17796504,17796574,4050690,Sequelae of open wound of upper limb,outcome
+17796504,17796574,4045471,Autoimmune reaction mediated by cell-mediated immunity,outcome
+17796504,17796574,4031170,Severe systemic illness tissue wasting,outcome
+17796504,17796574,4022078,Discord with counselor,outcome
+17796504,17796574,4022076,Patient dependence on care provider,outcome
+17796504,17796574,4019971,Discord in school,outcome
+17796504,17796574,4008710,"Stenosis due to any device, implant AND/OR graft",outcome
+17796504,17796574,443274,Psychostimulant dependence,outcome
+17796504,17796574,440193,Wristdrop,outcome
+17796504,17796574,438759,Descemet's membrane fold,outcome
+17796504,17796574,438624,Complication of renal dialysis,outcome
+17796504,17796574,438262,Chyluria,outcome
+17796504,17796574,437448,Exhaustion due to excessive exertion,outcome
+17796504,17796574,437369,Postmature infancy,outcome
+17796504,17796574,437092,Physiological development failure,outcome
+17796504,17796574,436426,Malleus mobility reduced,outcome
+17796504,17796574,436233,Delayed milestone,outcome
+17796504,17796574,435720,Adverse anesthesia outcome,outcome
+17796504,17796574,434063,Jaw to cranial base anomaly,outcome
+17796504,17796574,433681,Late effect of accident due to natural and environmental factors,outcome
+17796504,17796574,433542,Precipitate labor,outcome
+17796504,17796574,374358,Excess skin of eyelid,outcome
+17796504,17796574,313601,Oxygen supply absent,outcome
+17796504,17796574,259995,Foreign body in orifice,outcome
+17796504,17796574,77364,Hypermobility of coccyx,outcome
+17796504,17796574,45757504,Urethral intrinsic sphincter deficiency,outcome
+17796504,17796574,36683375,Non-healing surgical wound,outcome
+17796504,17796574,4201388,Gastrostomy present,outcome
+17796504,17796574,4201387,Tracheostomy present,outcome
+17796504,17796574,4019836,Social exclusion,outcome
+17796504,17796574,436041,Leech infestation,outcome
+17796505,17796575,432513,Animal bite wound,outcome
+17796505,17796575,4171556,Ankle ulcer,outcome
+17796505,17796575,3654971,Burn of digit of hand,outcome
+17796505,17796575,75121,Burn of lower leg,outcome
+17796505,17796575,200461,Endometriosis of uterus,outcome
+17796505,17796575,196347,Intestinal parasitism,outcome
+17796505,17796575,4147016,Open wound of buttock,outcome
+17796505,17796575,80286,Prosthetic joint loosening,outcome
+17796505,17796575,74194,Sprain of spinal ligament,outcome
+17796505,17796575,4194207,Tailor's bunion,outcome
+17796505,17796575,37117100,Tailor's bunion of left foot,outcome
+17796505,17796575,37108619,Tailor's bunion of right foot,outcome
+17796505,17796575,46286594,Problem related to lifestyle,outcome
+17796505,17796575,45770922,Open anterior occlusal relationship,outcome
+17796505,17796575,45757370,Disproportion of reconstructed breast,outcome
+17796505,17796575,44790844,Problem with artificial heart,outcome
+17796505,17796575,44789003,Open wound of thumb with damage to nail,outcome
+17796505,17796575,42538119,Transplanted heart valve present,outcome
+17796505,17796575,42537744,Transplanted cornea present,outcome
+17796505,17796575,42537740,Bladder stoma present,outcome
+17796505,17796575,37116419,Myopic choroidal neovascularization,outcome
+17796505,17796575,36716521,Sequela of trachoma,outcome
+17796505,17796575,36675035,Prematurity of infant,outcome
+17796505,17796575,4318718,Limitation of movement of temporomandibular joint,outcome
+17796505,17796575,4264617,Foot-drop,outcome
+17796505,17796575,4219138,Somatic dysfunction of rib,outcome
+17796505,17796575,4216219,Bizarre personal appearance,outcome
+17796505,17796575,4213540,Cervical somatic dysfunction,outcome
+17796505,17796575,4193774,Flail elbow,outcome
+17796505,17796575,4170145,Absence of lung,outcome
+17796505,17796575,4168318,Genetic disorder carrier,outcome
+17796505,17796575,4168222,"Intra-abdominal and pelvic swelling, mass and lump",outcome
+17796505,17796575,4166231,Genetic predisposition,outcome
+17796505,17796575,4155077,Complete disruption of pelvic ring,outcome
+17796505,17796575,4153217,Patient condition resolved,outcome
+17796505,17796575,4150397,Baby birth weight 1 to 1.5 kilogram,outcome
+17796505,17796575,4149610,Birth weight 999 g or less,outcome
+17796505,17796575,4129479,Normal uterine cervix,outcome
+17796505,17796575,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
+17796505,17796575,4114976,Balanced rearrangement and structural marker,outcome
+17796505,17796575,4101286,Sequelae of malnutrition and other nutritional deficiencies,outcome
+17796505,17796575,4096540,Foreskin deficient,outcome
+17796505,17796575,4094911,Pregnancy test equivocal,outcome
+17796505,17796575,4094163,Polyarticular joint involvement,outcome
+17796505,17796575,4093636,Sequelae of leprosy,outcome
+17796505,17796575,4092879,Absent kidney,outcome
+17796505,17796575,4088768,Absent nipple,outcome
+17796505,17796575,4087800,Ptosis of eyebrow,outcome
+17796505,17796575,4086512,Excess subcutaneous fat,outcome
+17796505,17796575,4081461,Irregular eye movements,outcome
+17796505,17796575,4067069,Callosity,outcome
+17796505,17796575,4066505,Clicking hip,outcome
+17796505,17796575,4052226,Sequelae of injuries of lower limb,outcome
+17796505,17796575,4051630,Malingering,outcome
+17796505,17796575,4050690,Sequelae of open wound of upper limb,outcome
+17796505,17796575,4045471,Autoimmune reaction mediated by cell-mediated immunity,outcome
+17796505,17796575,4031170,Severe systemic illness tissue wasting,outcome
+17796505,17796575,4022078,Discord with counselor,outcome
+17796505,17796575,4022076,Patient dependence on care provider,outcome
+17796505,17796575,4019971,Discord in school,outcome
+17796505,17796575,4008710,"Stenosis due to any device, implant AND/OR graft",outcome
+17796505,17796575,443274,Psychostimulant dependence,outcome
+17796505,17796575,440193,Wristdrop,outcome
+17796505,17796575,438759,Descemet's membrane fold,outcome
+17796505,17796575,438624,Complication of renal dialysis,outcome
+17796505,17796575,438262,Chyluria,outcome
+17796505,17796575,437448,Exhaustion due to excessive exertion,outcome
+17796505,17796575,437369,Postmature infancy,outcome
+17796505,17796575,437092,Physiological development failure,outcome
+17796505,17796575,436426,Malleus mobility reduced,outcome
+17796505,17796575,436233,Delayed milestone,outcome
+17796505,17796575,435720,Adverse anesthesia outcome,outcome
+17796505,17796575,434063,Jaw to cranial base anomaly,outcome
+17796505,17796575,433681,Late effect of accident due to natural and environmental factors,outcome
+17796505,17796575,433542,Precipitate labor,outcome
+17796505,17796575,374358,Excess skin of eyelid,outcome
+17796505,17796575,313601,Oxygen supply absent,outcome
+17796505,17796575,259995,Foreign body in orifice,outcome
+17796505,17796575,77364,Hypermobility of coccyx,outcome
+17796505,17796575,45757504,Urethral intrinsic sphincter deficiency,outcome
+17796505,17796575,36683375,Non-healing surgical wound,outcome
+17796505,17796575,4201388,Gastrostomy present,outcome
+17796505,17796575,4201387,Tracheostomy present,outcome
+17796505,17796575,4019836,Social exclusion,outcome
+17796505,17796575,436041,Leech infestation,outcome
+17796506,17796576,432513,Animal bite wound,outcome
+17796506,17796576,4171556,Ankle ulcer,outcome
+17796506,17796576,3654971,Burn of digit of hand,outcome
+17796506,17796576,75121,Burn of lower leg,outcome
+17796506,17796576,200461,Endometriosis of uterus,outcome
+17796506,17796576,196347,Intestinal parasitism,outcome
+17796506,17796576,4147016,Open wound of buttock,outcome
+17796506,17796576,80286,Prosthetic joint loosening,outcome
+17796506,17796576,74194,Sprain of spinal ligament,outcome
+17796506,17796576,4194207,Tailor's bunion,outcome
+17796506,17796576,37117100,Tailor's bunion of left foot,outcome
+17796506,17796576,37108619,Tailor's bunion of right foot,outcome
+17796506,17796576,46286594,Problem related to lifestyle,outcome
+17796506,17796576,45770922,Open anterior occlusal relationship,outcome
+17796506,17796576,45757370,Disproportion of reconstructed breast,outcome
+17796506,17796576,44790844,Problem with artificial heart,outcome
+17796506,17796576,44789003,Open wound of thumb with damage to nail,outcome
+17796506,17796576,42538119,Transplanted heart valve present,outcome
+17796506,17796576,42537744,Transplanted cornea present,outcome
+17796506,17796576,42537740,Bladder stoma present,outcome
+17796506,17796576,37116419,Myopic choroidal neovascularization,outcome
+17796506,17796576,36716521,Sequela of trachoma,outcome
+17796506,17796576,36675035,Prematurity of infant,outcome
+17796506,17796576,4318718,Limitation of movement of temporomandibular joint,outcome
+17796506,17796576,4264617,Foot-drop,outcome
+17796506,17796576,4219138,Somatic dysfunction of rib,outcome
+17796506,17796576,4216219,Bizarre personal appearance,outcome
+17796506,17796576,4213540,Cervical somatic dysfunction,outcome
+17796506,17796576,4193774,Flail elbow,outcome
+17796506,17796576,4170145,Absence of lung,outcome
+17796506,17796576,4168318,Genetic disorder carrier,outcome
+17796506,17796576,4168222,"Intra-abdominal and pelvic swelling, mass and lump",outcome
+17796506,17796576,4166231,Genetic predisposition,outcome
+17796506,17796576,4155077,Complete disruption of pelvic ring,outcome
+17796506,17796576,4153217,Patient condition resolved,outcome
+17796506,17796576,4150397,Baby birth weight 1 to 1.5 kilogram,outcome
+17796506,17796576,4149610,Birth weight 999 g or less,outcome
+17796506,17796576,4129479,Normal uterine cervix,outcome
+17796506,17796576,4118057,Fetal or neonatal effect of maternal oligohydramnios,outcome
+17796506,17796576,4114976,Balanced rearrangement and structural marker,outcome
+17796506,17796576,4101286,Sequelae of malnutrition and other nutritional deficiencies,outcome
+17796506,17796576,4096540,Foreskin deficient,outcome
+17796506,17796576,4094911,Pregnancy test equivocal,outcome
+17796506,17796576,4094163,Polyarticular joint involvement,outcome
+17796506,17796576,4093636,Sequelae of leprosy,outcome
+17796506,17796576,4092879,Absent kidney,outcome
+17796506,17796576,4088768,Absent nipple,outcome
+17796506,17796576,4087800,Ptosis of eyebrow,outcome
+17796506,17796576,4086512,Excess subcutaneous fat,outcome
+17796506,17796576,4081461,Irregular eye movements,outcome
+17796506,17796576,4067069,Callosity,outcome
+17796506,17796576,4066505,Clicking hip,outcome
+17796506,17796576,4052226,Sequelae of injuries of lower limb,outcome
+17796506,17796576,4051630,Malingering,outcome
+17796506,17796576,4050690,Sequelae of open wound of upper limb,outcome
+17796506,17796576,4045471,Autoimmune reaction mediated by cell-mediated immunity,outcome
+17796506,17796576,4031170,Severe systemic illness tissue wasting,outcome
+17796506,17796576,4022078,Discord with counselor,outcome
+17796506,17796576,4022076,Patient dependence on care provider,outcome
+17796506,17796576,4019971,Discord in school,outcome
+17796506,17796576,4008710,"Stenosis due to any device, implant AND/OR graft",outcome
+17796506,17796576,443274,Psychostimulant dependence,outcome
+17796506,17796576,440193,Wristdrop,outcome
+17796506,17796576,438759,Descemet's membrane fold,outcome
+17796506,17796576,438624,Complication of renal dialysis,outcome
+17796506,17796576,438262,Chyluria,outcome
+17796506,17796576,437448,Exhaustion due to excessive exertion,outcome
+17796506,17796576,437369,Postmature infancy,outcome
+17796506,17796576,437092,Physiological development failure,outcome
+17796506,17796576,436426,Malleus mobility reduced,outcome
+17796506,17796576,436233,Delayed milestone,outcome
+17796506,17796576,435720,Adverse anesthesia outcome,outcome
+17796506,17796576,434063,Jaw to cranial base anomaly,outcome
+17796506,17796576,433681,Late effect of accident due to natural and environmental factors,outcome
+17796506,17796576,433542,Precipitate labor,outcome
+17796506,17796576,374358,Excess skin of eyelid,outcome
+17796506,17796576,313601,Oxygen supply absent,outcome
+17796506,17796576,259995,Foreign body in orifice,outcome
+17796506,17796576,77364,Hypermobility of coccyx,outcome
+17796506,17796576,45757504,Urethral intrinsic sphincter deficiency,outcome
+17796506,17796576,36683375,Non-healing surgical wound,outcome
+17796506,17796576,4201388,Gastrostomy present,outcome
+17796506,17796576,4201387,Tracheostomy present,outcome
+17796506,17796576,4019836,Social exclusion,outcome
+17796506,17796576,436041,Leech infestation,outcome

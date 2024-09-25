@@ -1,0 +1,314 @@
+{
+  "ExpressionLimit": {"Type": "All"},
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 0
+  },
+  "CensorWindow": {
+    "StartDate": null,
+    "EndDate": null
+  },
+  "ConceptSets": [{
+    "expression": {"items": [
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4043378,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "230270009",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Frontotemporal dementia",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 46284877,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "956861000000107",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Dementia care plan reviewed",
+          "DOMAIN_ID": "Observation",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Context-dependent",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 35610623,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "1095121000000102",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Dementia advance care plan agreed",
+          "DOMAIN_ID": "Observation",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 44803781,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "716671000000102",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Dementia monitoring third letter",
+          "DOMAIN_ID": "Observation",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 44803843,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "716991000000108",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Dementia monitoring telephone invitation",
+          "DOMAIN_ID": "Observation",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 44803706,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "716221000000104",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Dementia monitoring verbal invitation",
+          "DOMAIN_ID": "Observation",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 44782763,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "135811000119107",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Lewy body dementia with behavioral disturbance",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 44803643,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "715821000000107",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Dementia monitoring first letter",
+          "DOMAIN_ID": "Observation",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 44790944,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "248711000000102",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Dementia monitoring",
+          "DOMAIN_ID": "Observation",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 46284876,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "956841000000106",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Dementia care plan agreed",
+          "DOMAIN_ID": "Observation",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 44803915,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "717471000000101",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Dementia monitoring second letter",
+          "DOMAIN_ID": "Observation",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 42742407,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "1175F",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_NAME": "Functional status for dementia assessed and results reviewed (DEM)",
+          "DOMAIN_ID": "Observation",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "CPT4",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4059191,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "161465002",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "H/O: dementia",
+          "DOMAIN_ID": "Observation",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Context-dependent",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4182210,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "52448006",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Dementia",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }
+    ]},
+    "name": "[cervello V2] Dementia",
+    "id": 1
+  }],
+  "EndStrategy": {"DateOffset": {
+    "DateField": "StartDate",
+    "Offset": 0
+  }},
+  "cdmVersionRange": ">=5.0.0",
+  "CensoringCriteria": [],
+  "QualifiedLimit": {"Type": "All"},
+  "InclusionRules": [],
+  "PrimaryCriteria": {
+    "CriteriaList": [
+      {"ConditionOccurrence": {
+        "OccurrenceEndDate": null,
+        "CorrelatedCriteria": null,
+        "ConditionTypeExclude": false,
+        "CodesetId": 1,
+        "ProviderSpecialty": null,
+        "Gender": null,
+        "VisitType": null,
+        "First": null,
+        "OccurrenceStartDate": {
+          "Op": "gte",
+          "Extent": null,
+          "Value": "2018-12-01"
+        },
+        "ConditionType": null,
+        "ConditionSourceConcept": null,
+        "ConditionStatus": null,
+        "StopReason": null,
+        "Age": null
+      }},
+      {"Observation": {
+        "ValueAsConcept": null,
+        "ObservationType": null,
+        "CorrelatedCriteria": null,
+        "ObservationTypeExclude": false,
+        "ValueAsString": null,
+        "CodesetId": 1,
+        "ProviderSpecialty": null,
+        "Gender": null,
+        "Unit": null,
+        "ObservationSourceConcept": null,
+        "VisitType": null,
+        "ValueAsNumber": null,
+        "Qualifier": null,
+        "First": null,
+        "OccurrenceStartDate": {
+          "Op": "gte",
+          "Extent": null,
+          "Value": "2018-12-01"
+        },
+        "Age": null
+      }}
+    ],
+    "PrimaryCriteriaLimit": {"Type": "All"},
+    "ObservationWindow": {
+      "PostDays": 0,
+      "PriorDays": 0
+    }
+  }
+}

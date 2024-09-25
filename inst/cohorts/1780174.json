@@ -1,0 +1,282 @@
+{
+  "ExpressionLimit": {"Type": "All"},
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 0
+  },
+  "CensorWindow": {
+    "StartDate": null,
+    "EndDate": null
+  },
+  "ConceptSets": [{
+    "expression": {"items": [
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 440383,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "35489007",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Depressive disorder",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4114513,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "255339005",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Depression - motion",
+          "DOMAIN_ID": "Observation",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Qualifier Value",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 2106305,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "3089F",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_NAME": "Major depressive disorder, moderate (MDD)",
+          "DOMAIN_ID": "Observation",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "CPT4",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 2106304,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "3088F",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_NAME": "Major depressive disorder, mild (MDD)",
+          "DOMAIN_ID": "Observation",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "CPT4",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 4295031,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "401174001",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Depression management program",
+          "DOMAIN_ID": "Observation",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 2106322,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "3091F",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_NAME": "Major depressive disorder, severe with psychotic features (MDD)",
+          "DOMAIN_ID": "Observation",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "CPT4",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 2106310,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "3090F",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_NAME": "Major depressive disorder, severe without psychotic features (MDD)",
+          "DOMAIN_ID": "Observation",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "CPT4",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 35625752,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "768835002",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Depression care management",
+          "DOMAIN_ID": "Procedure",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 40756912,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "0545F",
+          "VOCABULARY_ID": "CPT4",
+          "CONCEPT_NAME": "Plan for follow-up care for major depressive disorder, documented (MDD ADOL)",
+          "DOMAIN_ID": "Observation",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "CPT4",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 44788282,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "166291000000108",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Depression enhanced services administration",
+          "DOMAIN_ID": "Observation",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Procedure",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      },
+      {
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 44788304,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "166481000000107",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Depression enhanced service completed",
+          "DOMAIN_ID": "Observation",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }
+    ]},
+    "name": "[cervello V2] Depressive disorders",
+    "id": 1
+  }],
+  "EndStrategy": {"DateOffset": {
+    "DateField": "StartDate",
+    "Offset": 0
+  }},
+  "cdmVersionRange": ">=5.0.0",
+  "CensoringCriteria": [],
+  "QualifiedLimit": {"Type": "All"},
+  "InclusionRules": [],
+  "PrimaryCriteria": {
+    "CriteriaList": [
+      {"ConditionOccurrence": {
+        "OccurrenceEndDate": null,
+        "CorrelatedCriteria": null,
+        "ConditionTypeExclude": false,
+        "CodesetId": 1,
+        "ProviderSpecialty": null,
+        "Gender": null,
+        "VisitType": null,
+        "First": null,
+        "OccurrenceStartDate": {
+          "Op": "gte",
+          "Extent": null,
+          "Value": "2018-12-01"
+        },
+        "ConditionType": null,
+        "ConditionSourceConcept": null,
+        "ConditionStatus": null,
+        "StopReason": null,
+        "Age": null
+      }},
+      {"Observation": {
+        "ValueAsConcept": null,
+        "ObservationType": null,
+        "CorrelatedCriteria": null,
+        "ObservationTypeExclude": false,
+        "ValueAsString": null,
+        "CodesetId": 1,
+        "ProviderSpecialty": null,
+        "Gender": null,
+        "Unit": null,
+        "ObservationSourceConcept": null,
+        "VisitType": null,
+        "ValueAsNumber": null,
+        "Qualifier": null,
+        "First": null,
+        "OccurrenceStartDate": {
+          "Op": "gte",
+          "Extent": null,
+          "Value": "2018-12-01"
+        },
+        "Age": null
+      }},
+      {"ProcedureOccurrence": {
+        "ProcedureType": null,
+        "CorrelatedCriteria": null,
+        "CodesetId": 1,
+        "ProcedureSourceConcept": null,
+        "Quantity": null,
+        "ProviderSpecialty": null,
+        "Gender": null,
+        "ProcedureTypeExclude": false,
+        "VisitType": null,
+        "First": null,
+        "OccurrenceStartDate": {
+          "Op": "gte",
+          "Extent": null,
+          "Value": "2018-12-01"
+        },
+        "Modifier": null,
+        "Age": null
+      }}
+    ],
+    "PrimaryCriteriaLimit": {"Type": "All"},
+    "ObservationWindow": {
+      "PostDays": 0,
+      "PriorDays": 0
+    }
+  }
+}

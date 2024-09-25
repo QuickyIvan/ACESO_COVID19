@@ -1,0 +1,372 @@
+{
+  "ExpressionLimit": {"Type": "First"},
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 0
+  },
+  "CensorWindow": {
+    "StartDate": null,
+    "EndDate": null
+  },
+  "ConceptSets": [
+    {
+      "expression": {"items": [{
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 37311061,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "840539006",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "COVID-19",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }]},
+      "name": "COVID-19",
+      "id": 4
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 756055,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP4873969",
+            "VOCABULARY_ID": "OMOP Extension",
+            "CONCEPT_NAME": "Measurement of Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Lab Test",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37310258,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1240461000000109",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Measurement of Severe acute respiratory syndrome coronavirus 2 antibody",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 704059,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "U0003",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Infectious agent detection by nucleic acid (DNA or RNA); severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) (Coronavirus disease [COVID-19]), amplified probe technique, making use of high throughput technologies as described by CMS-2020-01-R",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 704058,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "U0004",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "2019-nCoV Coronavirus, SARS-CoV-2/2019-nCoV (COVID-19), any technique, multiple types or subtypes (includes all targets), non-CDC, making use of high throughput technologies as described by CMS-2020-01-R",
+            "DOMAIN_ID": "Measurement",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "SARS-CoV-2 test",
+      "id": 5
+    }
+  ],
+  "cdmVersionRange": ">=5.0.0",
+  "CensoringCriteria": [],
+  "QualifiedLimit": {"Type": "First"},
+  "InclusionRules": [
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": null,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": null,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "EndWindow": null,
+          "Criteria": {"Measurement": {
+            "Operator": null,
+            "RangeHigh": null,
+            "MeasurementTypeExclude": false,
+            "ValueAsConcept": [
+              {
+                "INVALID_REASON_CAPTION": "Unknown",
+                "CONCEPT_ID": 45884084,
+                "STANDARD_CONCEPT": null,
+                "CONCEPT_CODE": "LA6576-8",
+                "VOCABULARY_ID": "LOINC",
+                "CONCEPT_NAME": "Positive",
+                "DOMAIN_ID": "Meas Value",
+                "STANDARD_CONCEPT_CAPTION": "Unknown",
+                "CONCEPT_CLASS_ID": null,
+                "INVALID_REASON": null
+              },
+              {
+                "INVALID_REASON_CAPTION": "Unknown",
+                "CONCEPT_ID": 45879438,
+                "STANDARD_CONCEPT": null,
+                "CONCEPT_CODE": "LA9633-4",
+                "VOCABULARY_ID": "LOINC",
+                "CONCEPT_NAME": "Present",
+                "DOMAIN_ID": "Meas Value",
+                "STANDARD_CONCEPT_CAPTION": "Unknown",
+                "CONCEPT_CLASS_ID": null,
+                "INVALID_REASON": null
+              },
+              {
+                "INVALID_REASON_CAPTION": "Unknown",
+                "CONCEPT_ID": 45877985,
+                "STANDARD_CONCEPT": null,
+                "CONCEPT_CODE": "LA11882-0",
+                "VOCABULARY_ID": "LOINC",
+                "CONCEPT_NAME": "Detected",
+                "DOMAIN_ID": "Meas Value",
+                "STANDARD_CONCEPT_CAPTION": "Unknown",
+                "CONCEPT_CLASS_ID": null,
+                "INVALID_REASON": null
+              },
+              {
+                "INVALID_REASON_CAPTION": "Unknown",
+                "CONCEPT_ID": 4181412,
+                "STANDARD_CONCEPT": null,
+                "CONCEPT_CODE": "52101004",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_NAME": "Present",
+                "DOMAIN_ID": "Meas Value",
+                "STANDARD_CONCEPT_CAPTION": "Unknown",
+                "CONCEPT_CLASS_ID": null,
+                "INVALID_REASON": null
+              },
+              {
+                "INVALID_REASON_CAPTION": "Unknown",
+                "CONCEPT_ID": 4126681,
+                "STANDARD_CONCEPT": null,
+                "CONCEPT_CODE": "260373001",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_NAME": "Detected",
+                "DOMAIN_ID": "Meas Value",
+                "STANDARD_CONCEPT_CAPTION": "Unknown",
+                "CONCEPT_CLASS_ID": null,
+                "INVALID_REASON": null
+              },
+              {
+                "INVALID_REASON_CAPTION": "Unknown",
+                "CONCEPT_ID": 9191,
+                "STANDARD_CONCEPT": null,
+                "CONCEPT_CODE": "10828004",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_NAME": "Positive",
+                "DOMAIN_ID": "Meas Value",
+                "STANDARD_CONCEPT_CAPTION": "Unknown",
+                "CONCEPT_CLASS_ID": null,
+                "INVALID_REASON": null
+              },
+              {
+                "INVALID_REASON_CAPTION": "Unknown",
+                "CONCEPT_ID": 4214712,
+                "STANDARD_CONCEPT": null,
+                "CONCEPT_CODE": "394845008",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_NAME": "Potentially abnormal",
+                "DOMAIN_ID": "Meas Value",
+                "STANDARD_CONCEPT_CAPTION": "Unknown",
+                "CONCEPT_CLASS_ID": null,
+                "INVALID_REASON": null
+              },
+              {
+                "INVALID_REASON_CAPTION": "Unknown",
+                "CONCEPT_ID": 4216167,
+                "STANDARD_CONCEPT": null,
+                "CONCEPT_CODE": "394844007",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_NAME": "Outside reference range",
+                "DOMAIN_ID": "Meas Value",
+                "STANDARD_CONCEPT_CAPTION": "Unknown",
+                "CONCEPT_CLASS_ID": null,
+                "INVALID_REASON": null
+              },
+              {
+                "INVALID_REASON_CAPTION": "Unknown",
+                "CONCEPT_ID": 45878745,
+                "STANDARD_CONCEPT": null,
+                "CONCEPT_CODE": "LA12748-2",
+                "VOCABULARY_ID": "LOINC",
+                "CONCEPT_NAME": "Abnormal",
+                "DOMAIN_ID": "Meas Value",
+                "STANDARD_CONCEPT_CAPTION": "Unknown",
+                "CONCEPT_CLASS_ID": null,
+                "INVALID_REASON": null
+              },
+              {
+                "INVALID_REASON_CAPTION": "Unknown",
+                "CONCEPT_ID": 4328749,
+                "STANDARD_CONCEPT": null,
+                "CONCEPT_CODE": "75540009",
+                "VOCABULARY_ID": "SNOMED",
+                "CONCEPT_NAME": "High",
+                "DOMAIN_ID": "Meas Value",
+                "STANDARD_CONCEPT_CAPTION": "Unknown",
+                "CONCEPT_CLASS_ID": null,
+                "INVALID_REASON": null
+              },
+              {
+                "INVALID_REASON_CAPTION": "Unknown",
+                "CONCEPT_ID": 45876384,
+                "STANDARD_CONCEPT": null,
+                "CONCEPT_CODE": "LA9193-9",
+                "VOCABULARY_ID": "LOINC",
+                "CONCEPT_NAME": "High",
+                "DOMAIN_ID": "Meas Value",
+                "STANDARD_CONCEPT_CAPTION": "Unknown",
+                "CONCEPT_CLASS_ID": null,
+                "INVALID_REASON": null
+              }
+            ],
+            "CorrelatedCriteria": null,
+            "RangeHighRatio": null,
+            "CodesetId": 5,
+            "ProviderSpecialty": null,
+            "Gender": null,
+            "Unit": null,
+            "RangeLowRatio": null,
+            "MeasurementType": null,
+            "MeasurementSourceConcept": null,
+            "VisitType": null,
+            "ValueAsNumber": null,
+            "First": null,
+            "OccurrenceStartDate": null,
+            "RangeLow": null,
+            "Abnormal": null,
+            "Age": null
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "CountColumn": null,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": [],
+        "Count": null
+      },
+      "name": "No SARS-Cov-2 positive results",
+      "description": null
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": null,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": null,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": true,
+          "EndWindow": null,
+          "Criteria": {"ConditionOccurrence": {
+            "OccurrenceEndDate": null,
+            "CorrelatedCriteria": null,
+            "ConditionTypeExclude": false,
+            "CodesetId": 4,
+            "ProviderSpecialty": null,
+            "Gender": null,
+            "VisitType": null,
+            "First": null,
+            "OccurrenceStartDate": null,
+            "ConditionType": null,
+            "ConditionSourceConcept": null,
+            "ConditionStatus": null,
+            "StopReason": null,
+            "Age": null
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "CountColumn": null,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": [],
+        "Count": null
+      },
+      "name": "No Covid-19 diagnose",
+      "description": null
+    }
+  ],
+  "PrimaryCriteria": {
+    "CriteriaList": [{"ObservationPeriod": {
+      "PeriodType": null,
+      "CorrelatedCriteria": null,
+      "AgeAtStart": null,
+      "UserDefinedPeriod": null,
+      "AgeAtEnd": null,
+      "First": null,
+      "PeriodEndDate": {
+        "Op": "gte",
+        "Extent": null,
+        "Value": "2019-12-01"
+      },
+      "PeriodStartDate": null,
+      "PeriodLength": null
+    }}],
+    "PrimaryCriteriaLimit": {"Type": "First"},
+    "ObservationWindow": {
+      "PostDays": 0,
+      "PriorDays": 0
+    }
+  }
+}
